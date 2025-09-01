@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Samadhan-mini-projects-by-Luminax.ai
+This repo is made to publish mini projects of samadhan 2.0 round 1 by Suyash Acharya,Ayush Dhakad, Ishan Choudhary (Luminax.ai)
+>>>>>>> e498c28abb63ce4ddb6936245b911d8549c7a0e0
